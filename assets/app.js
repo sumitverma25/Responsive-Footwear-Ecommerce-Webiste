@@ -39,11 +39,11 @@ const products = [
     colors: [
       {
         code: "lightgray",
-        img: "./img/blazer.png",
+        img: "assets/img/blazer.png",
       },
       {
         code: "green",
-        img: "./img/blazer2.png",
+        img: "assets/img/blazer2.png",
       },
     ],
   },
@@ -54,11 +54,11 @@ const products = [
     colors: [
       {
         code: "black",
-        img: "./img/crater.png",
+        img: "assets/img/crater.png",
       },
       {
         code: "lightgray",
-        img: "./img/crater2.png",
+        img: "assets/img/crater2.png",
       },
     ],
   },
@@ -69,11 +69,11 @@ const products = [
     colors: [
       {
         code: "gray",
-        img: "./img/hippie.png",
+        img: "assets/img/hippie.png",
       },
       {
         code: "black",
-        img: "./img/hippie2.png",
+        img: "assets/img/hippie2.png",
       },
     ],
   },
