@@ -24,11 +24,11 @@ const products = [
     colors: [
       {
         code: "lightgray",
-        img: "./img/jordan.png",
+        img: "assets/img/jordan.png",
       },
       {
         code: "green",
-        img: "./img/jordan2.png",
+        img: "assets/img/jordan2.png",
       },
     ],
   },
